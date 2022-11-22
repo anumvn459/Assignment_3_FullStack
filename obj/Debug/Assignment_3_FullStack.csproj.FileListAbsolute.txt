@@ -1,0 +1,8 @@
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\obj\Debug\Assignment_3_FullStack.csproj.AssemblyReference.cache
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\obj\Debug\Assignment_3_FullStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\obj\Debug\Assignment_3_FullStack.csproj.CoreCompileInputs.cache
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\bin\Debug\Assignment_3_FullStack.exe.config
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\bin\Debug\Assignment_3_FullStack.exe
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\bin\Debug\Assignment_3_FullStack.pdb
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\obj\Debug\Assignment_3_FullStack.exe
+C:\Users\Anumol\Desktop\Assignment_3_FullStack\obj\Debug\Assignment_3_FullStack.pdb
